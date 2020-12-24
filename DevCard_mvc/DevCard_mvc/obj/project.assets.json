@@ -2,6 +2,26 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "FormFactory/5.0.77": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FormFactory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FormFactory.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.0/es-ES/FormFactory.resources.dll": {
+            "locale": "es-ES"
+          },
+          "lib/netstandard2.0/nl/FormFactory.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/netstandard2.0/pt-BR/FormFactory.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -1801,6 +1821,21 @@
     }
   },
   "libraries": {
+    "FormFactory/5.0.77": {
+      "sha512": "DYzTle1lWAS1fcLCbNgyKDZ7QoDdJTpJiyPlPGNTnR3kvnhfaYxJI6YElBe/lbI99jjORJN96j1qTbMYqzn4Ww==",
+      "type": "package",
+      "path": "formfactory/5.0.77",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "formfactory.5.0.77.nupkg.sha512",
+        "formfactory.nuspec",
+        "lib/netstandard2.0/FormFactory.dll",
+        "lib/netstandard2.0/es-ES/FormFactory.resources.dll",
+        "lib/netstandard2.0/nl/FormFactory.resources.dll",
+        "lib/netstandard2.0/pt-BR/FormFactory.resources.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
       "sha512": "Y4rs5aMEXY8G7wJo5S3EEt6ltqyOTr/qOeZzfn+hw/fuQj5GppGckMY5psGLETo1U9hcT5MmAhaT5xtusM1b5g==",
       "type": "package",
@@ -6065,6 +6100,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "FormFactory >= 5.0.77",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.4"
     ]
   },
@@ -6105,6 +6141,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "FormFactory": {
+            "target": "Package",
+            "version": "[5.0.77, )"
+          },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[3.1.4, )"

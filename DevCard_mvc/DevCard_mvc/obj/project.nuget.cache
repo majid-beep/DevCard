@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bwg1CtKSJW7Kx5GuIabrBOHb+prRb74JXmJtXJEppryuJRH4eXxmE1E6wMKX74CFVePPFBsUHdlECXeOxJI0Rw==",
+  "dgSpecHash": "8/S0mNaao64ak3DtuyrsVn+cTaNb7sttAmIxVtpV4b3xyEBOIjP4nLt/SWXaycgzcV/fWTaEgdMLczCF4P1JLg==",
   "success": true,
   "projectFilePath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\DevCard_mvc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\7\\.nuget\\packages\\formfactory\\5.0.77\\formfactory.5.0.77.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
