@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
             "FormFactory": {
               "target": "Package",
               "version": "[5.0.77, )"

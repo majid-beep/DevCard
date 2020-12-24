@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8/S0mNaao64ak3DtuyrsVn+cTaNb7sttAmIxVtpV4b3xyEBOIjP4nLt/SWXaycgzcV/fWTaEgdMLczCF4P1JLg==",
+  "dgSpecHash": "TVK0jAoB8CWKWOvw774yGsMIHyizayLGQzMNVkIsR9jrsznMf3ABF68fo+wVXrR+8spVEKUzhh6Aqw7ADze0Qw==",
   "success": true,
   "projectFilePath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\DevCard_mvc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\7\\.nuget\\packages\\documentformat.openxml\\2.12.0\\documentformat.openxml.2.12.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\formfactory\\5.0.77\\formfactory.5.0.77.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -71,6 +72,7 @@
     "C:\\Users\\7\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\7\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\7\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
