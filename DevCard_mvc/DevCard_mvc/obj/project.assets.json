@@ -6181,11 +6181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\DevCard_mvc.csproj",
+      "projectUniqueName": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03-DONE\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\DevCard_mvc.csproj",
       "projectName": "DevCard_mvc",
-      "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\DevCard_mvc.csproj",
+      "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03-DONE\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\DevCard_mvc.csproj",
       "packagesPath": "C:\\Users\\7\\.nuget\\packages\\",
-      "outputPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\obj\\",
+      "outputPath": "E:\\ONLINE-LEARNING\\UNDONE\\mvc\\03-DONE\\proj\\DevCard\\DevCard_mvc\\DevCard_mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\7\\AppData\\Roaming\\NuGet\\NuGet.Config",

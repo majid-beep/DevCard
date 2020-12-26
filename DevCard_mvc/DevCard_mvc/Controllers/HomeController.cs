@@ -9,6 +9,7 @@ using DocumentFormat.OpenXml.Office2010.Excel;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using DocumentFormat.OpenXml.Wordprocessing;
 using DocumentFormat.OpenXml.EMMA;
+using DevCard_mvc.Data;
 
 namespace DevCard_mvc.Controllers
 {
@@ -27,7 +28,11 @@ namespace DevCard_mvc.Controllers
         {
             return View();
         }
-
+        public IActionResult ProjectDetails(long id)
+        {
+            var project = ProjectStore.GetProjectBy(id);
+            return View(project);
+        }
         [HttpGet]
         public IActionResult Contact()
         {
